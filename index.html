@@ -1,0 +1,50 @@
+<!DOCTYPE html5>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="shortcut icon" href="img/logo-spotify.png">
+    <script src="JS/functions.js"></script>
+    <title>Podcast</title>
+</head>
+
+<body>
+    <div id="logo">
+        <img id="podLogo" src="img/png-transparent-computer-icons-wave-sound-sound-wave-angle-text-logo.png" alt="">
+        <h1 id="logoLegend">
+            pod
+        </h1>
+    </div>
+
+    <div id="main">
+
+        <h1 id="title1">Publish your Podcasts</h1>
+        <h1 id="title2">Everywhere.</h1>
+        <p>
+            Upload your audio to Pod with a single click. We'll <br> then ditribute your podcast to Spotfy, Apple <br> Podcast, Google Podcasts and more!
+        </p>
+
+        <form action=" " method="POST" name="tMainForm" id="CMainform">
+
+            <label for="mail"></label>
+            <input type="email" name="Mail" id="mail" placeholder="Email adress" required>
+            <button type="submit" name="tRequest" id="CRequest" onclick="validation()">Request Access </button>
+        </form>
+
+        <div id="footer">
+            <img src="img/logo-spotify.png " alt=" " width="200px" height="80px">
+            <img src="img/logo-apple-podcast.png " alt=" " width="250px" height="80px">
+            <img src="img/logo-google-podcasts.svg " alt=" " width="200px" height="80px">
+
+        </div>
+    </div>
+    <div id="fundo">
+        <div id="imgVoice">
+            <img id="backimg" src="img/locutor-de-rádio-768x432.jpeg" alt=""> </div>
+    </div>
+</body>
+
+</html>
