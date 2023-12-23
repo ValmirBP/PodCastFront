@@ -23,8 +23,8 @@ h1 {
 
 div#logo {
     position: absolute;
-    margin-top: -15%;
-    margin-left: 30px;
+    margin-top: -10%;
+    margin-left: 20%;
     width: 300px;
     height: 80px;
 }
@@ -46,8 +46,8 @@ div#main {
     position: relative;
     padding: 50px;
     background-color: #111725;
-    margin-top: 20%;
-    margin-left: 10%;
+    margin-top: 15%;
+    margin-left: 20%;
     width: 700px;
     height: 500px;
 }
@@ -69,7 +69,10 @@ div#footer {
 }
 
 div#imgVoice {
-    margin-top: -60%;
+    margin-top: -40%;
+    margin-right: 15%;
+    margin-left: 90%;
+    margin-bottom: 100%;
     float: right;
     width: auto;
     height: auto;
