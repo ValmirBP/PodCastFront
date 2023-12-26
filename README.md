@@ -39,8 +39,9 @@ git clone https://github.com/ValmirBP/PodCastFront.git
 3. Select Open with Live Server 
 
 
-# Frontend Mentor - Profile card component
+# Frontend Mentor - PodCast Front
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+![image](https://github.com/ValmirBP/PodCastFront/assets/48802923/38602a96-a954-4051-80d9-95fff3a0c891)
+
 
 
